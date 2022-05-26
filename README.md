@@ -1,2 +1,5 @@
-# dsa-practice
-Different Algorithm and Data Structure practicegit 
+# DSA PRACTICE
+This repo includes different Algorithm and Data Structure practice
+
+# Algorithms:
+-Recursive
