@@ -6,3 +6,6 @@ This repo includes different Algorithm and Data Structure practice
 -Recursive
 -Search
 -Sorting
+
+# Data Structures
+-Singly Linked List
