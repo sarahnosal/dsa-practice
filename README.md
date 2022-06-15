@@ -1,5 +1,5 @@
 # DSA PRACTICE
-This repo includes different Algorithm and Data Structure practice
+This repo includes different Algorithm and Data Structure examples
 
 # Algorithms:
 -Beginner
@@ -9,3 +9,4 @@ This repo includes different Algorithm and Data Structure practice
 
 # Data Structures
 -Singly Linked List
+-Doubly Linked List
