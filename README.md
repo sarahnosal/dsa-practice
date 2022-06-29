@@ -12,3 +12,4 @@ This repo includes different Algorithm and Data Structure examples
 -Doubly Linked List
 -Binary Search Tree
 -Stacks and Queues
+-Binary Heaps
